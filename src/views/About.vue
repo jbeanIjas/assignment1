@@ -1,5 +1,7 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+	<div class="ani-slideInDown text-center">
+		<h2 class="fs-h2">
+			Ijas Np pallipppadi
+		</h2>
+	</div>
 </template>
